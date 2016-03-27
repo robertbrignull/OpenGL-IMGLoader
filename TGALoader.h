@@ -1,0 +1,1 @@
+GLuint loadTGA(char *filename);
